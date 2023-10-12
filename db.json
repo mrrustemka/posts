@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "JavaScript",
+      "description": "Introduction to JS",
+      "id": 1
+    },
+    {
+      "title": "TypeScript",
+      "description": "Introduction to TS",
+      "id": 2
+    }
+  ]
+}
