@@ -1,4 +1,4 @@
-https://mrrustemka.github.io/rest-api/
+https://mrrustemka.github.io/posts/
 
 Posts Creater. Single page application created with the React and Tailwind.You can create posts.
 To launch the application locally you need:
